@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="220" />
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/SQL%2050!.gif?raw=true" width="220" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="210" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/SQL%2050!.gif?raw=true" width="210" />
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/SQL%20Ani.gif?raw=true" width="295" />
 </p>
 
 <h1 align="center">LeetCode SQL 50 Challenge Solutions </h1>
